@@ -3,7 +3,7 @@
 |----------|:-------------:|
 |`Starting date`| September 2021|
 | `COMPETITION` |  Mena hackathon| 
-| `softare used` |   Figma   | 
+| `software used` |   Figma   | 
 | `Time spent on designing the app` | weekend | 
 |`member of the design team`| 2|
 |`member of the writing team`|2|
