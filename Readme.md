@@ -58,4 +58,4 @@ but also to attract volunteers to help them if needed.
 of products and companies that will help them to take the step.
 All this while maintaining communication and exchange between the different actors
 
-*** This social network will be materialized by an application and a website***
+** This social network will be materialized by an application and a website**
